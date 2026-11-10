@@ -30,3 +30,6 @@ Thumbs.db
 # IDE specific
 .vscode/
 .idea/
+node_modules/
+.env
+.DS_Store
